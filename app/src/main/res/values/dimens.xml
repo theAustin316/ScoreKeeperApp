@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_ht">500dp</dimen>
+    <dimen name="card_elev">3dp</dimen>
+    <dimen name="marg_right">5dp</dimen>
+    <dimen name="marg_top">5dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="intro_top">45dp</dimen>
+    <dimen name="part">0dp</dimen>
+    <dimen name="right_marg">10dp</dimen>
+    <dimen name="top_marg">4dp</dimen>
+    <dimen name="size_text">24sp</dimen>
+    <dimen name="score_top">18dp</dimen>
+    <dimen name="score_size">48sp</dimen>
+    <dimen name="marg_button">8dp</dimen>
+    <dimen name="line_width">1dp</dimen>
+    <dimen name="line_height">400dp</dimen>
+    <dimen name="line_margTop">75dp</dimen>
+    <dimen name="text_marign">15dp</dimen>
+    <dimen name="splas_size">36sp</dimen>
+    <dimen name="prog_marg">24dp</dimen>
+</resources>

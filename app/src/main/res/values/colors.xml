@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01579B</color>
+    <color name="colorPrimaryDark">#80D8FF</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="bluish">#00E5FF</color>
+    <color name="greenish">#B2FF59</color>
+    <color name="light_blue">#00ACC1</color>
+    <color name="fcb_bluish">#2196F3</color>
+    <color name="blackish">#263238</color>
+    <color name="yeellowish">#CCFF90</color>
+    <color name="whitish">#FFFFFF</color>
+    <color name="teal">#64FFDA</color>
+</resources>
